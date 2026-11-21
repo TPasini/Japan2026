@@ -1,4 +1,4 @@
-const CACHE='giappone-v1';
+const CACHE='giappone-v2';
 const V='10.12.2';
 const CORE=['./','./index.html','./app.js','./seed.js','./config.js','./manifest.webmanifest','./icon-192.png','./icon-512.png','./icon-180.png',
  `https://www.gstatic.com/firebasejs/${V}/firebase-app.js`,`https://www.gstatic.com/firebasejs/${V}/firebase-firestore.js`];
